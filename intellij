@@ -1,1 +1,7 @@
 
+[InteliJ] Untracked Files Prevent Merge 오류
+
+해당 프로젝트 > gitbash >  $ git clean -d -f -f
+
+ 
+
