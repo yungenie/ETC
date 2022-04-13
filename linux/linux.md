@@ -30,7 +30,7 @@ shift + g : 파일의 맨 끝 줄
 n : 다음 문자열 탐색   
 N(shift + n) : 역방향으로 문자열 탐색  
 
-cat 보기용   
+[cat 보기용]   
 tail -500f  log 파일 -> 실시간 로그 확인   
 ps -ef | grep java -> java 프로세스 확인  
 
