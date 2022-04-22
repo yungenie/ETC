@@ -46,5 +46,8 @@ rw- r-- r--
 6 4 4  
 110  
 
+r w x 권한없음
+4 2 1  0
+
 tar -cvf  생성이름.tar 대상이름  
 jar xvf 파일이름.war
