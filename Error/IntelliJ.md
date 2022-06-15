@@ -17,6 +17,6 @@
 > 해결 : Tomcat 설정시 [Server] > [Vm Options] > -Duser.language=en -Duser.region=us or -Dfile.encoding=UTF-8 입력  
 
 ### [IntelliJ][Tomcat] 설정시 com.fasterxml.jackson.core.JsonParseException: Unexpected character ('<' (code 60)):      
-> 현상 : 웹페이지 404   
+> 현상 : HTTP 상태 404 – 찾을 수 없음  
 > 해결 : Tomcat 설정시 [Deployment] > [+] 클릭 > Artifact > 위에서 추가한 프로젝트명:war exploded를 선택   
 > 컴파일안된 소스를 Tomcat 올려서 I/F통신시 웹페이지 HTML 값들을 가져옴. 컴파일된 아카이브 파일 선택해야함.  
