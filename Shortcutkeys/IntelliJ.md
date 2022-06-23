@@ -3,8 +3,8 @@ Ctrl + Alt + S : Setting창 (maven 검색 -> offline 선택)
 Ctrl + Alt + Shift + S : Project Structure (JDK 셋팅)   
 
 [주석 및 정리]   
-Ctrl + / : 주석   
-Ctrl + Shift + / : 블럭주석   
+Ctrl + / : 주석   (//...)
+Ctrl + Shift + / : 블럭주석 (/*...*/)  
 Ctrl + Alt + L : 코드정리   
 Ctrl + Alt + O : import 정리   
 Ctrl + Alt + Shift + T : 리펙토리 옵션 
