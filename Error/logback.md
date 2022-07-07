@@ -3,6 +3,7 @@
 > 내용 : https://oingdaddy.tistory.com/383 블로그와 동일하게 구현. 단, json형태가 다양하여 여러경우의 수 처리 ("key":"" 처리 포함)  
 > 해결 : [`<maskPattern>\"key\"\s*:\s*\"(.*?)\"</maskPattern> -> <maskPattern>\"key\\{0,1}\"\s*:\s*\\{0,1}\"(.*?)\"</maskPattern>`]()  
 > json 형태 예시 : 1. "key":"value", 2. "key":"", 3. \"key\":\"value\", 4. \"key\":\"\"  
+> 정규식패턴 참조 : https://gh402.tistory.com/54?category=890133 
 
 
 ### [logback][masking] 개인정보 항목 마스킹 처리시 서버 로그파일에 적용 안됨
