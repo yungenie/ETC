@@ -2,7 +2,7 @@
 > 현상 : 서버로그 개인정보 항목 logback.xml 정규식패턴을 활용한 마스킹 처리시 다양한 json형태 처리안됨.  
 > 내용 : https://oingdaddy.tistory.com/383 블로그와 동일하게 구현. 단, 다양한 데이터 형태들 정규식 패턴으로 표준화 처리 (json형태 "key":"" 처리 포함)   
 > 해결 : [`<maskPattern>\"key\"\s*:\s*\"(.*?)\"</maskPattern> -> <maskPattern>\"key\\{0,1}\"\s*:\s*\\{0,1}\"(.*?)\"</maskPattern>`]()  
-> 데이터 예시 : 1. "key":"value", 2. "key":"", 3. \"key\":\"value\", 4. \"key\":\"\"  
+> 데이터 예시 : 1. "key":"value", 2. "key":"", 3. \\"key\\":\\"value\\", 4. \\"key\\":\\"\\"  
 > 정규식패턴 참조 : https://gh402.tistory.com/54?category=890133 
 
 
