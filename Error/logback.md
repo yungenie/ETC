@@ -9,4 +9,4 @@
 ### [logback][masking] 개인정보 항목 마스킹 처리시 서버 로그파일에 적용 안됨
 > 현상 : 서버로그 개인정보 항목 logback.xml 정규식패턴을 활용한 마스킹 처리시 console 적용됨. 서버 로그파일에는 적용 안됨.  
 > 내용 : https://oingdaddy.tistory.com/383 블로그와 동일하게 구현.     
-> 해결 : <appener name="file">에도 <maskPattern>정규식 패턴</maskPattern> 넣어줘야 함.
+> 해결 : \<appener name="file">에도 \<maskPattern>정규식 패턴\</maskPattern> 넣어줘야 함.
