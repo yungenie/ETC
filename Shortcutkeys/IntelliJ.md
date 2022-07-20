@@ -17,7 +17,7 @@ Alt : 직사각형 범위 선택
 soutv : 최근변수 출력 
 
 [검색]   
-Shift 2번 : 전체 파일 검색 (double Shift)
+Shift 2번 : 전체 파일 검색 (double Shift)  
 Ctrl + Shift + F : research (파일 안에 내용 검색)    
 Ctrl + E : 최근 열린 파일목록    
 Ctrl + Alt + Shift + J : 블럭단어 동일단어 한번에 전체찾기 (파일 내에 블럭단어 전체 찾기)   
