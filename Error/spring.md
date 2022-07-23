@@ -53,3 +53,9 @@
 				</includes>
 			</resource>
 		</resources>
+
+### [spring] 필드 동시성 문제  
+> 현상 : 스레드 공유로 인한 비동기 현상으로 인해 동시성 문제 발견
+> 해결 : 필드 동기화. ThreadLocal<T> tl= new ThreadLocal<>(); java.lang 패키지 ThreadLocal 클래스를 사용해서 각 스레드에 값을 저장시켜 동시성 문제를 해결한다.  
+	
+	
