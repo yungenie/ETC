@@ -52,7 +52,9 @@ r w x 권한없음
 tar -cvf  생성이름.tar 대상이름  
 jar xvf 파일이름.war
 
-[터미널 bash prompt]  
-export PS1 = "\[\e[36;1m\]\u@\[\e[32;1m\]\h:\[\e[31;1m\]\w:> \[\e[0m\]"    
-PS1 변수를 통해 프롬프트 모양을 바꿀 수 있음. 호스트명, 파일명 보기 좋게 색깔로 구분됨.
-ref. https://www.lesstif.com/system-admin/bash-prompt-profile-12943439.html
+[터미널 bash prompt 색상 변경]  
+> - .bash_profile에 아래 문구 추가
+> - export PS1 = "\[\e[36;1m\]\u@\[\e[32;1m\]\h:\[\e[31;1m\]\w:> \[\e[0m\]"    
+> - PS1 변수를 통해 프롬프트 모양을 바꿀 수 있음. 호스트명, 파일명 보기 좋게 색깔로 구분됨.
+> - ref. https://www.lesstif.com/system-admin/bash-prompt-profile-12943439.html
+
