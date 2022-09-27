@@ -58,3 +58,5 @@ jar xvf 파일이름.war
 > - 설명 : PS1 변수를 통해 프롬프트 모양을 바꿀 수 있음. 호스트명, 파일명 보기 좋게 색깔로 구분됨.  
 > - 참고 : https://www.lesstif.com/system-admin/bash-prompt-profile-12943439.html  
 
+[mount]
+remount 작업 - mount -o rw,remount /system
