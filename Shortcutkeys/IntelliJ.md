@@ -42,7 +42,7 @@ Ctrl + D : To compare any two files or folders, select them in the project tool 
 [소스 및 형상관리]  
 Ctrl + B : 선언부 이동     
 Ctrl + Alt + B : 구현부 이동   
-Alt + Insert(Ins) : getter/setter   
+Alt + Insert(Ins) : Generate 생성 ex) Getter/Setter, equals() and hashCode(), toString() 등
 Ctrl + Alt + T : Surround With. 코드 블럭 자동 삽입   
 Shift + F10 : war 컴파일      
 Ctrl + T : Update Project      
