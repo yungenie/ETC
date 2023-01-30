@@ -47,17 +47,17 @@ Alt + Insert(Ins) : Generate 생성 ex) Getter/Setter, equals() and hashCode(), 
 Ctrl + Alt + T : Surround With. 코드 블럭 자동 삽입   
 Shift + F10 : war 컴파일      
 Ctrl + T : Update Project      
-Ctrl + K : Commit Project  
-Ctrl + Alt + V  : Press Ctrl+Alt+V or from the main menu, select Refactor | Extract/Introduce | Variable.
-Ctrl + P : Parameter into 
-Shift + f6 : variable, class rename
-/** Ctrl + enter : 메서드 설명 자동완성
-Ctrl + Alt + Shift + L : Reformat File (소스 줄바꿈 정리)
-Ctrl + Alt + M : 코드 메소드로 추출
-Ctrl + Shift + T : 테스트 클래스 만들어줌(클래스에 놓고)
-Alt + Enter : 클래스 static import
-ctrl + e : 최근 클래스
-shift + f10 : 이전에 실행했던 거 실행해줌.
+Ctrl + K : Commit Project     
+Ctrl + Alt + V  : Press Ctrl+Alt+V or from the main menu, select Refactor | Extract/Introduce | Variable.   
+Ctrl + P : Parameter into    
+Shift + f6 : variable, class rename   
+/** Ctrl + enter : 메서드 설명 자동완성   
+Ctrl + Alt + Shift + L : Reformat File (소스 줄바꿈 정리)   
+Ctrl + Alt + M : 코드 메소드로 추출   
+Ctrl + Shift + T : 테스트 클래스 만들어줌(클래스에 놓고)    
+Alt + Enter : 클래스 static import     
+ctrl + e : 최근 클래스     
+shift + f10 : 이전에 실행했던 거 실행해줌.     
 
 
 [디버깅]  
