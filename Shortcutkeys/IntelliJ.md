@@ -58,6 +58,7 @@ Ctrl + Shift + T : 테스트 클래스 만들어줌(클래스에 놓고)
 Alt + Enter : 클래스 static import     
 ctrl + e : 최근 클래스     
 Alt + 방향키 (<- / -> ) : 이전, 앞   
+Ctrl + Alt + Shift + N : Refactor this  
 
 [실행]
 shift + f10 : 이전에 실행했던 거 실행해줌.     
