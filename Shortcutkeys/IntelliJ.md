@@ -48,7 +48,8 @@ Ctrl + Alt + T : Surround With. 코드 블럭 자동 삽입
 Shift + F10 : war 컴파일      
 Ctrl + T : Update Project      
 Ctrl + K : Commit Project     
-Ctrl + Alt + V  : Press Ctrl+Alt+V or from the main menu, select Refactor | Extract/Introduce | Variable.  Ctrl + P : Parameter into    
+Ctrl + Alt + V  : Press Ctrl+Alt+V or from the main menu, select Refactor | Extract/Introduce | Variable.   
+Ctrl + P : Parameter into     
 Shift + f6 : variable, class rename   
 /** Ctrl + enter : 메서드 설명 자동완성   
 Ctrl + Alt + Shift + L : Reformat File (소스 줄바꿈 정리)   
