@@ -61,8 +61,9 @@ Alt + 방향키 (<- / -> ) : 이전, 앞
 Ctrl + Alt + Shift + N : Refactor this  
 Ctrl + Shift + E : 최근 위치한 파일  
 
-[실행]  
-shift + f10 : 이전에 실행했던 거 실행해줌.       
+[실행]   
+Alt + Shift + F10 : 현재 파일 실행  
+Shift + F10 : 이전에 실행했던 거 실행해줌.        
 Ctrl + R : 마지막에 실행했던 거 다시 실행해줌.   
 
 [디버깅]  
