@@ -60,6 +60,8 @@ ctrl + e : 최근 클래스
 Alt + 방향키 (<- / -> ) : 이전, 앞   
 Ctrl + Alt + Shift + N : Refactor this  
 Ctrl + Shift + E : 최근 위치한 파일  
+Ctrl + Q : open preview    
+Ctrl + Enter : 빠른 해결방법 제공  
 
 [실행]   
 Alt + Shift + F10 : 현재 파일 실행  
