@@ -57,16 +57,16 @@ Ctrl + Alt + M : 코드 메소드로 추출
 Ctrl + Shift + T : 테스트 클래스 만들어줌(클래스에 놓고)    
 Alt + Enter : 클래스 static import     
 ctrl + e : 최근 클래스     
-Alt + 방향키 (<- / -> ) : 이전, 앞   
+Alt + 방향키 (<- / -> ) : 탭 이동 (이전, 앞)  
 Ctrl + Alt + Shift + N : Refactor this  
 Ctrl + Shift + E : 최근 위치한 파일  
-Ctrl + Q : open preview    
-Ctrl + Enter : 빠른 해결방법 제공  
+Ctrl + Q : open preview     
+Ctrl + Enter : 빠른 해결방법 제공    
 
 [실행]   
-Alt + Shift + F10 : 현재 파일 실행  
-Shift + F10 : 이전에 실행했던 거 실행해줌.        
-Ctrl + R : 마지막에 실행했던 거 다시 실행해줌.   
+Alt + Shift + F10 : 현재 파일 실행   
+Shift + F10 : 이전에 실행했던 거 실행해줌.         
+Ctrl + R : 마지막에 실행했던 거 다시 실행해줌.    
 
 [디버깅]  
 F8 : 다음 라인 이동 (현재 break된 파일에서)  
