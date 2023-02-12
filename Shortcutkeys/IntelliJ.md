@@ -61,8 +61,8 @@ Alt + 방향키 (<- / -> ) : 탭 이동 (이전, 앞)
 Ctrl + Alt + Shift + N : Refactor this  
 Ctrl + Shift + E : 최근 위치한 파일  
 Ctrl + Q : open preview     
- + Enter : 빠른 해결방법 제공     
-/*** +  Enter : 메소드 설정 주석  
+Alt + Enter : 빠른 해결방법 제공      
+/*** +  Enter : 메소드 설정 주석    
 
 
 [실행]   
