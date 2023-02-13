@@ -62,7 +62,8 @@ Ctrl + Alt + Shift + N : Refactor this
 Ctrl + Shift + E : 최근 위치한 파일  
 Ctrl + Q : open preview     
 Alt + Enter : 빠른 해결방법 제공      
-/*** +  Enter : 메소드 설정 주석    
+/*** +  Enter : 메소드 설정 주석     
+Alt + F4 : Editor 창 닫기  
 
 
 [실행]   
