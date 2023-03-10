@@ -64,8 +64,8 @@ Ctrl + Q : open preview
 Alt + Enter : 빠른 해결방법 제공      
 /*** +  Enter : 메소드 설정 주석     
 Alt + F4 : Editor 창 닫기  
-Ctrl + D : 줄복제  
-
+Ctrl + D : 줄복제    
+Ctrl + N : 검색(형 기반의 전역 검색) Go to class  
 
 [실행]   
 Alt + Shift + F10 : 현재 파일 실행   
