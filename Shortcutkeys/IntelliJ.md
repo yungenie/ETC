@@ -64,6 +64,7 @@ Ctrl + Q : open preview
 Alt + Enter : 빠른 해결방법 제공      
 /*** +  Enter : 메소드 설정 주석     
 Alt + F4 : Editor 창 닫기  
+Ctrl + D : 줄복제  
 
 
 [실행]   
