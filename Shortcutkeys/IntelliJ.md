@@ -66,9 +66,8 @@ Alt + Enter : 빠른 해결방법 제공
 Alt + F4 : Editor 창 닫기  
 Ctrl + D : 줄복제    
 Ctrl + N : 검색(형 기반의 전역 검색) Go to class  
-Ctrl + F12 : 클래스구조 확인 file structure popup
+Ctrl + F12 : 클래스구조 확인 file structure popup (해당 클래스에 함수 목록을 보여줌)
 Alt + Shift + 위/아래방향키 : 현재 선택한 한줄을 이동하는 단축키
-
 
 [실행]   
 Alt + Shift + F10 : 현재 파일 실행   
