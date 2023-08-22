@@ -1,4 +1,3 @@
-# Styleguides
 ## Gitmoji Commit Messages
 - gitmoji란 `git + emoji`를 합쳐서 부르는 말로 emoji를 이용하여 `commit message`를 작성합니다.
 - 메세지에 이모지(이모티콘)을 더해 사용된 이모티콘만 보고 커밋의 목적이나 의도를 쉽게 식별할 수 있습니다.
@@ -7,7 +6,10 @@
 - 익숙하지 않은 사람은 어떤 의미인지 알 수 없지만 익숙해지다 보면 훨씬 가독성 높게 읽기가 가능합니다.
 - 이모지의 용도, 의미를 미리 정해놓은 공식 사이트를 참고해주시면 됩니다.
 - 공식 사이트 : https://gitmoji.dev/
-- Intellij : https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button (VCS Git Log 제공 x)
+- Intellij
+  - https://plugins.jetbrains.com/plugin/12383-gitmoji-plus-commit-button
+  - 코드(`:sparkles:`) 또는 유니코드 버전(✨)을 사용하는 옵션 제공
+  - VCS Git로그에 gitmoji 표시 옵션은 없음
 
 ## Emoticons Guide
 - 🎨	`:art:`	코드의 구조/형태 개선	Improve structure / format of the code.
