@@ -1,0 +1,2 @@
+- Import 정리	: Ctrl + Option + O
+- 코드(라인) 자동 정렬 : Command + Option + L
