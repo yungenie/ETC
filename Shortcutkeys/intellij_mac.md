@@ -10,3 +10,6 @@
 - 멀티커서 : option 누르고
 - Import 정리	: Ctrl + Option + O
 - 코드(라인) 자동 정렬 : Command + Option + L
+- 커서 근처 코드 선택 영역 : Option + 위 또는 아래 화살표
+- 메소드 추출 : command + opt + m
+- 메소드 위치 변경 : Alt + Shift + 방향키
