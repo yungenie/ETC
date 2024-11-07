@@ -13,3 +13,4 @@
 - 커서 근처 코드 선택 영역 : Option + 위 또는 아래 화살표
 - 메소드 추출 : command + opt + m
 - 메소드 위치 변경 : Alt + Shift + 방향키
+- 창 이동 : Alt + Shift + [ or ]
