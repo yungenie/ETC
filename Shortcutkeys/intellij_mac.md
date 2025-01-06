@@ -14,3 +14,6 @@
 - 메소드 추출 : command + opt + m
 - 메소드 위치 변경 : Alt + Shift + 방향키
 - 창 이동 : Alt + Shift + [ or ]
+- 프로젝트 창으로 이동 : command + 1
+- 프로젝트 창에서 폴더에 커서를 두면 New 창이 뜬다. 클래스 파일 생성할 수 있음 : command + N
+- 만들어지지 않은 클래스를 생성할 수 있음 : Option + Enter
